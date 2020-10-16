@@ -1,0 +1,28 @@
+<body>
+			<style>
+				#principal{
+					border: solid 1px black;
+					width: 80%;
+					margin: 0 auto;
+					padding: 5px;
+}
+
+fieldset{
+    margin-bottom: 10px;
+}
+legend {
+	border: solid 1px green;
+	padding: 5px;
+	font-weight: bold;
+	border-radius: 25px;
+    background: lightblue;
+}
+#mifoto{
+	margin: 5px;
+	border: solid 2px black;
+}
+body {
+	background: url(foto.jpg);
+	background-size: 100%
+
+}
